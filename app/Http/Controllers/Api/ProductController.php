@@ -8,7 +8,7 @@ use App\Models\Product;
 class ProductController extends Controller
 {
     public function getproducts(){
-    	$products = Product::paginate(5);
+    	$products = Product::paginate(10);
     	return response()->json(['products'=>$products]);
     }
 
@@ -69,7 +69,7 @@ class ProductController extends Controller
 
     public function SearchProduct($name = null){
         if($name!=null){
-            $products=Product::where('name','LIKE','%'.$name."%")->paginate(5);
+            $products=Product::where('name','LIKE','%'.$name."%")->paginate(10);
             return response()->json(['products'=>$products]);
         }else{
             $products=Product::paginate(5);
