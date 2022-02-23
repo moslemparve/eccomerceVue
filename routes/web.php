@@ -20,3 +20,6 @@ Route::view('test','testing');
 
 Route::view('/{path?}', 'welcome');
 Route::view('/{path?}/{id?}', 'welcome');
+Route::get('/tests', function() {
+    return response()->json(['message' => 'Hello World']);
+})->middleware('auth')->name('test');
