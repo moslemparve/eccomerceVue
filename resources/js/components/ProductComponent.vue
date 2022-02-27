@@ -49,8 +49,8 @@
                             @click.prevent="addtoCart(product)"
                         >
                             <div class="pro_card_bottom_two">
-                                <i class="fas fa-shopping-cart"></i>
-                                <a href="">Buy Now</a>
+                                <i class="fas fa-shopping-cart" style="color:white;"></i>
+                                <a href="#" style="color:white;">Add to Cart</a>
                             </div>
                         </button>
                     </div>
