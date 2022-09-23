@@ -35,8 +35,8 @@
                     <div class="top_shoping_card_price">
                         <p>{{ item.price }}</p>
                     </div>
-                    <div class="top_shoping_card_remove">
-                        <a @click="DeleteCartItem(item.id)"><p>remove</p></a>
+                    <div>
+                        <a @click="DeleteCartItem(item.id)"><p><i class="fa fa-trash"></i></p></a>
                     </div>
                 </div>
                 <div class="shpng_card_middle_all">

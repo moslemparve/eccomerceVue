@@ -2148,6 +2148,14 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   data: function data() {
@@ -2164,14 +2172,14 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
     }
   },
   computed: _objectSpread({}, (0,vuex__WEBPACK_IMPORTED_MODULE_0__.mapGetters)({
-    cart: 'getCartItem',
-    Cartlength: 'getCartCount',
-    CartTotal: 'getCartTotal'
+    cart: "getCartItem",
+    Cartlength: "getCartCount",
+    CartTotal: "getCartTotal"
   })),
   created: function created() {// alert('{{graphId}}');
   },
   mounted: function mounted() {
-    console.log('mounted');
+    console.log("mounted");
   }
 });
 
@@ -5016,6 +5024,11 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
 
 /***/ }),
@@ -5034,6 +5047,89 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _HeaderComponent__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./HeaderComponent */ "./resources/js/components/HeaderComponent.vue");
 /* harmony import */ var _FooterComponent__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./FooterComponent */ "./resources/js/components/FooterComponent.vue");
 /* harmony import */ var _MenuComponent__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./MenuComponent */ "./resources/js/components/MenuComponent.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -11007,7 +11103,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.empty_card[data-v-e7ab8a3c] {\r\n    text-align: center;\r\n    color: white;\n}\n.shoping_card_details[data-v-e7ab8a3c]{\r\n        max-height: 450px;\r\n    overflow: auto;\n}\r\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.empty_card[data-v-e7ab8a3c] {\n    text-align: center;\n    color: white;\n}\n.shoping_card_details[data-v-e7ab8a3c] {\n    max-height: 450px;\n    overflow: auto;\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -11031,7 +11127,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.not_found{\r\n\tpadding: 0px 0px 13px 316px !important;\n}\r\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.not_found{\n\tpadding: 0px 0px 13px 316px !important;\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -11055,7 +11151,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.loader[data-v-221fe85d] {\r\n    border: 16px solid #f3f3f3; /* Light grey */\r\n    border-top: 16px solid #3498db; /* Blue */\r\n    border-radius: 50%;\r\n    width: 100%;\r\n    height: auto;\r\n    -webkit-animation: spin-data-v-221fe85d 2s linear infinite;\r\n            animation: spin-data-v-221fe85d 2s linear infinite;\r\n    border-bottom: 16px solid blue;\n}\n@-webkit-keyframes spin-data-v-221fe85d {\n0% {\r\n        transform: rotate(0deg);\n}\n100% {\r\n        transform: rotate(360deg);\n}\n}\n@keyframes spin-data-v-221fe85d {\n0% {\r\n        transform: rotate(0deg);\n}\n100% {\r\n        transform: rotate(360deg);\n}\n}\r\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.loader[data-v-221fe85d] {\n    border: 16px solid #f3f3f3; /* Light grey */\n    border-top: 16px solid #3498db; /* Blue */\n    border-radius: 50%;\n    width: 100%;\n    height: auto;\n    -webkit-animation: spin-data-v-221fe85d 2s linear infinite;\n            animation: spin-data-v-221fe85d 2s linear infinite;\n    border-bottom: 16px solid blue;\n}\n@-webkit-keyframes spin-data-v-221fe85d {\n0% {\n        transform: rotate(0deg);\n}\n100% {\n        transform: rotate(360deg);\n}\n}\n@keyframes spin-data-v-221fe85d {\n0% {\n        transform: rotate(0deg);\n}\n100% {\n        transform: rotate(360deg);\n}\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -48146,7 +48242,11 @@ var render = function() {
                           color: "fuchsia"
                         }
                       },
-                      [_vm._v(" x ")]
+                      [
+                        _vm._v(
+                          "\n                            x\n                        "
+                        )
+                      ]
                     ),
                     _vm._v(" "),
                     _c("li", [_vm._v(_vm._s(item.quantity))])
@@ -48157,7 +48257,7 @@ var render = function() {
                   _c("p", [_vm._v(_vm._s(item.price))])
                 ]),
                 _vm._v(" "),
-                _c("div", { staticClass: "top_shoping_card_remove" }, [
+                _c("div", [
                   _c(
                     "a",
                     {
@@ -48167,7 +48267,7 @@ var render = function() {
                         }
                       }
                     },
-                    [_c("p", [_vm._v("remove")])]
+                    [_vm._m(0, true)]
                   )
                 ])
               ]
@@ -48236,7 +48336,14 @@ var render = function() {
     ])
   ])
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", [_c("i", { staticClass: "fa fa-trash" })])
+  }
+]
 render._withStripped = true
 
 
@@ -53311,19 +53418,19 @@ var staticRenderFns = [
                 _vm._v(" "),
                 _c("p", { staticClass: "text_bottom_text" }, [
                   _vm._v(
-                    "\r\n\t\t\t\t\t\t\t\tThe teachological advancement has touched every aspect of our life and eliminted difficult. We provide the one stop solution for IT product; your happiness is just a click away.\r\n\t\t\t\t\t\t\t"
+                    "\n\t\t\t\t\t\t\t\tThe teachological advancement has touched every aspect of our life and eliminted difficult. We provide the one stop solution for IT product; your happiness is just a click away.\n\t\t\t\t\t\t\t"
                   )
                 ]),
                 _vm._v(" "),
                 _c("p", { staticClass: "text_bottom_text" }, [
                   _vm._v(
-                    "\r\n\t\t\t\t\t\t\t\tThe teachological advancement has touched every aspect of our life and eliminted difficult. We provide the one stop solution for IT product; your happiness is just a click away.The text will be go here.The text will be go here.\r\n\t\t\t\t\t\t\t"
+                    "\n\t\t\t\t\t\t\t\tThe teachological advancement has touched every aspect of our life and eliminted difficult. We provide the one stop solution for IT product; your happiness is just a click away.The text will be go here.The text will be go here.\n\t\t\t\t\t\t\t"
                   )
                 ]),
                 _vm._v(" "),
                 _c("p", { staticClass: "text_bottom_text" }, [
                   _vm._v(
-                    "\r\n\t\t\t\t\t\t\t\tThe teachological advancement has touched every aspect of our life and eliminted difficult. We provide the one stop solution for IT product; your happiness is just a click away. "
+                    "\n\t\t\t\t\t\t\t\tThe teachological advancement has touched every aspect of our life and eliminted difficult. We provide the one stop solution for IT product; your happiness is just a click away. "
                   ),
                   _c(
                     "a",
@@ -53334,7 +53441,7 @@ var staticRenderFns = [
                     [_vm._v("Laptop")]
                   ),
                   _vm._v(
-                    " The text will be go here.The text will be go here.\r\n\t\t\t\t\t\t\t\tThe text will be go here.\r\n\t\t\t\t\t\t\t"
+                    " The text will be go here.The text will be go here.\n\t\t\t\t\t\t\t\tThe text will be go here.\n\t\t\t\t\t\t\t"
                   )
                 ])
               ])
@@ -54244,7 +54351,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54255,7 +54362,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54266,7 +54373,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54277,7 +54384,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ])
                 ])
               ])
@@ -54302,7 +54409,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54313,7 +54420,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54324,7 +54431,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54335,7 +54442,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ])
                 ])
               ])
@@ -54358,7 +54465,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54369,7 +54476,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54380,7 +54487,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54391,7 +54498,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ])
                 ])
               ])
@@ -54416,7 +54523,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54427,7 +54534,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54438,7 +54545,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54449,7 +54556,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ])
                 ])
               ])
@@ -54474,7 +54581,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54485,7 +54592,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54496,7 +54603,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54507,7 +54614,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ])
                 ])
               ])
@@ -54530,7 +54637,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54541,7 +54648,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54552,7 +54659,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -54563,7 +54670,7 @@ var staticRenderFns = [
                         value: "Bike"
                       }
                     }),
-                    _vm._v(" Up to 13.9 inch\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
+                    _vm._v(" Up to 13.9 inch\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t")
                   ])
                 ])
               ])
@@ -54753,7 +54860,9 @@ var staticRenderFns = [
             _c("div", { staticClass: "row" }, [
               _c("div", { staticClass: "col-12" }, [
                 _c("h3", { staticClass: "baner_bottom_title" }, [
-                  _vm._v("WE PROVIDE SERVICES FOR YOU")
+                  _vm._v(
+                    "\n                                WE PROVIDE SERVICES FOR YOU\n                            "
+                  )
                 ])
               ])
             ]),
@@ -54849,7 +54958,9 @@ var staticRenderFns = [
             _c("div", { staticClass: "row" }, [
               _c("div", { staticClass: "col-12" }, [
                 _c("h3", { staticClass: "baner_bottom_title" }, [
-                  _vm._v("WHY ARE WE DIFFERENT FROM OTHERS ?")
+                  _vm._v(
+                    "\n                                WHY ARE WE DIFFERENT FROM OTHERS ?\n                            "
+                  )
                 ])
               ])
             ]),
@@ -54860,7 +54971,9 @@ var staticRenderFns = [
                   _c("i", { staticClass: "fas fa-wrench" }),
                   _vm._v(" "),
                   _c("p", { staticClass: "icon_text_sevice" }, [
-                    _vm._v("Free Diagnostics")
+                    _vm._v(
+                      "\n                                    Free Diagnostics\n                                "
+                    )
                   ])
                 ])
               ]),
@@ -54870,7 +54983,9 @@ var staticRenderFns = [
                   _c("i", { staticClass: "fas fa-cogs" }),
                   _vm._v(" "),
                   _c("p", { staticClass: "icon_text_sevice" }, [
-                    _vm._v("Quick Repair Process")
+                    _vm._v(
+                      "\n                                    Quick Repair Process\n                                "
+                    )
                   ])
                 ])
               ]),
@@ -54880,7 +54995,9 @@ var staticRenderFns = [
                   _c("i", { staticClass: "fas fa-balance-scale" }),
                   _vm._v(" "),
                   _c("p", { staticClass: "icon_text_sevice" }, [
-                    _vm._v("Service Product Warranty")
+                    _vm._v(
+                      "\n                                    Service Product Warranty\n                                "
+                    )
                   ])
                 ])
               ])
@@ -54891,7 +55008,9 @@ var staticRenderFns = [
             _c("div", { staticClass: "row" }, [
               _c("div", { staticClass: "col-12" }, [
                 _c("h3", { staticClass: "baner_bottom_title" }, [
-                  _vm._v("OUR SERVICE POINTS")
+                  _vm._v(
+                    "\n                                OUR SERVICE POINTS\n                            "
+                  )
                 ])
               ])
             ]),
@@ -54907,18 +55026,22 @@ var staticRenderFns = [
                     _c("div", { staticClass: "service_card_text_all" }, [
                       _c("p", { staticClass: "service_card_text" }, [
                         _vm._v(
-                          "Shop#65, RF Alex Tower, Chicago Computer Market(Ground floor), SK Mojib Road, Chicago"
+                          "\n                                            Shop#65, RF Alex Tower, Chicago\n                                            Computer Market(Ground floor),\n                                            SK Mojib Road, Chicago\n                                        "
                         )
                       ]),
                       _vm._v(" "),
                       _c("p", { staticClass: "service_card_text" }, [
-                        _vm._v("M 0986162239, 08659173327")
+                        _vm._v(
+                          "\n                                            M 0986162239, 08659173327\n                                        "
+                        )
                       ])
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "service_card_text_bottom" }, [
                       _c("p", { staticClass: "service_card_bottom_text" }, [
-                        _vm._v("Open Everday")
+                        _vm._v(
+                          "\n                                            Open Everday\n                                        "
+                        )
                       ]),
                       _vm._v(" "),
                       _c("i", {
@@ -54939,18 +55062,22 @@ var staticRenderFns = [
                     _c("div", { staticClass: "service_card_text_all" }, [
                       _c("p", { staticClass: "service_card_text" }, [
                         _vm._v(
-                          "Chadima Hotel Building (1st Floor), Opposite of IT Office, Near Payra Area, Alaska"
+                          "\n                                            Chadima Hotel Building (1st\n                                            Floor), Opposite of IT Office,\n                                            Near Payra Area, Alaska\n                                        "
                         )
                       ]),
                       _vm._v(" "),
                       _c("p", { staticClass: "service_card_text" }, [
-                        _vm._v("M 0865912239")
+                        _vm._v(
+                          "\n                                            M 0865912239\n                                        "
+                        )
                       ])
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "service_card_text_bottom" }, [
                       _c("p", { staticClass: "service_card_bottom_text" }, [
-                        _vm._v("Tuesday Closed")
+                        _vm._v(
+                          "\n                                            Tuesday Closed\n                                        "
+                        )
                       ]),
                       _vm._v(" "),
                       _c("i", {
@@ -54971,18 +55098,22 @@ var staticRenderFns = [
                     _c("div", { staticClass: "service_card_text_all" }, [
                       _c("p", { staticClass: "service_card_text" }, [
                         _vm._v(
-                          "Chadima Hotel Building (1st Floor), Opposite of IT Office, Near Payra Area, Alaska "
+                          "\n                                            Chadima Hotel Building (1st\n                                            Floor), Opposite of IT Office,\n                                            Near Payra Area, Alaska\n                                        "
                         )
                       ]),
                       _vm._v(" "),
                       _c("p", { staticClass: "service_card_text" }, [
-                        _vm._v("M 0859162239, 0859173327")
+                        _vm._v(
+                          "\n                                            M 0859162239, 0859173327\n                                        "
+                        )
                       ])
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "service_card_text_bottom" }, [
                       _c("p", { staticClass: "service_card_bottom_text" }, [
-                        _vm._v("Open Everday")
+                        _vm._v(
+                          "\n                                            Open Everday\n                                        "
+                        )
                       ]),
                       _vm._v(" "),
                       _c("i", {
@@ -55003,18 +55134,22 @@ var staticRenderFns = [
                     _c("div", { staticClass: "service_card_text_all" }, [
                       _c("p", { staticClass: "service_card_text" }, [
                         _vm._v(
-                          "\r\n                                        Shop-975,976, Level-09, Multiplan Center, New Elephant Road, California-1205\r\n                                    "
+                          "\n                                            Shop-975,976, Level-09,\n                                            Multiplan Center, New Elephant\n                                            Road, California-1205\n                                        "
                         )
                       ]),
                       _vm._v(" "),
                       _c("p", { staticClass: "service_card_text" }, [
-                        _vm._v("M 098916239, 0989173327")
+                        _vm._v(
+                          "\n                                            M 098916239, 0989173327\n                                        "
+                        )
                       ])
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "service_card_text_bottom" }, [
                       _c("p", { staticClass: "service_card_bottom_text" }, [
-                        _vm._v("Open Everday")
+                        _vm._v(
+                          "\n                                            Open Everday\n                                        "
+                        )
                       ]),
                       _vm._v(" "),
                       _c("i", {
@@ -55035,18 +55170,22 @@ var staticRenderFns = [
                     _c("div", { staticClass: "service_card_text_all" }, [
                       _c("p", { staticClass: "service_card_text" }, [
                         _vm._v(
-                          "Shop-876, 907, 327, Level-03, Multiplan Center, London"
+                          "\n                                            Shop-876, 907, 327, Level-03,\n                                            Multiplan Center, London\n                                        "
                         )
                       ]),
                       _vm._v(" "),
                       _c("p", { staticClass: "service_card_text" }, [
-                        _vm._v("M 0989162239, 0969173327")
+                        _vm._v(
+                          "\n                                            M 0989162239, 0969173327\n                                        "
+                        )
                       ])
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "service_card_text_bottom" }, [
                       _c("p", { staticClass: "service_card_bottom_text" }, [
-                        _vm._v("Open Everday")
+                        _vm._v(
+                          "\n                                            Open Everday\n                                        "
+                        )
                       ]),
                       _vm._v(" "),
                       _c("i", {
@@ -55067,18 +55206,22 @@ var staticRenderFns = [
                     _c("div", { staticClass: "service_card_text_all" }, [
                       _c("p", { staticClass: "service_card_text" }, [
                         _vm._v(
-                          "39,IT House 5th Floor, New Street Road, Chicago-1205"
+                          "\n                                            39,IT House 5th Floor, New\n                                            Street Road, Chicago-1205\n                                        "
                         )
                       ]),
                       _vm._v(" "),
                       _c("p", { staticClass: "service_card_text" }, [
-                        _vm._v("M 0549162239, 0659173327")
+                        _vm._v(
+                          "\n                                            M 0549162239, 0659173327\n                                        "
+                        )
                       ])
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "service_card_text_bottom" }, [
                       _c("p", { staticClass: "service_card_bottom_text" }, [
-                        _vm._v("Open Everday")
+                        _vm._v(
+                          "\n                                            Open Everday\n                                        "
+                        )
                       ]),
                       _vm._v(" "),
                       _c("i", {
@@ -55098,17 +55241,23 @@ var staticRenderFns = [
                     _vm._v(" "),
                     _c("div", { staticClass: "service_card_text_all" }, [
                       _c("p", { staticClass: "service_card_text" }, [
-                        _vm._v("Brun House, 6th floor, 238/1, New-York, USA ")
+                        _vm._v(
+                          "\n                                            Brun House, 6th floor, 238/1,\n                                            New-York, USA\n                                        "
+                        )
                       ]),
                       _vm._v(" "),
                       _c("p", { staticClass: "service_card_text" }, [
-                        _vm._v("M 0989162239, 0989173327")
+                        _vm._v(
+                          "\n                                            M 0989162239, 0989173327\n                                        "
+                        )
                       ])
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "service_card_text_bottom" }, [
                       _c("p", { staticClass: "service_card_bottom_text" }, [
-                        _vm._v("Open Everday")
+                        _vm._v(
+                          "\n                                            Open Everday\n                                        "
+                        )
                       ]),
                       _vm._v(" "),
                       _c("i", {
@@ -55847,7 +55996,7 @@ var render = function() {
               }
             ]
           },
-          [_vm._v("\r\n            your cart is empty\r\n        ")]
+          [_vm._v("\n            your cart is empty\n        ")]
         )
       ]),
       _vm._v(" "),
@@ -55971,7 +56120,7 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("p", { staticClass: "shpng_card_btm_text_p" }, [
           _vm._v(
-            "Choose if you have a discount code or reward points you want to\r\n\t\t\t\t\t\t\tuse or would like to estimate your delivery cost."
+            "Choose if you have a discount code or reward points you want to\n\t\t\t\t\t\t\tuse or would like to estimate your delivery cost."
           )
         ])
       ]),
@@ -72636,7 +72785,7 @@ var index = {
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"_from":"axios@^0.21","_id":"axios@0.21.4","_inBundle":false,"_integrity":"sha512-ut5vewkiu8jjGBdqpM44XxjuCjq9LAKeHVmoVfHVzy8eHgxxq8SbAVQNovDA8mVi05kP0Ea/n/UzcSHcTJQfNg==","_location":"/axios","_phantomChildren":{},"_requested":{"type":"range","registry":true,"raw":"axios@^0.21","name":"axios","escapedName":"axios","rawSpec":"^0.21","saveSpec":null,"fetchSpec":"^0.21"},"_requiredBy":["#DEV:/"],"_resolved":"https://registry.npmjs.org/axios/-/axios-0.21.4.tgz","_shasum":"c67b90dc0568e5c1cf2b0b858c43ba28e2eda575","_spec":"axios@^0.21","_where":"C:\\\\xampp\\\\htdocs\\\\ecommerce","author":{"name":"Matt Zabriskie"},"browser":{"./lib/adapters/http.js":"./lib/adapters/xhr.js"},"bugs":{"url":"https://github.com/axios/axios/issues"},"bundleDependencies":false,"bundlesize":[{"path":"./dist/axios.min.js","threshold":"5kB"}],"dependencies":{"follow-redirects":"^1.14.0"},"deprecated":false,"description":"Promise based HTTP client for the browser and node.js","devDependencies":{"coveralls":"^3.0.0","es6-promise":"^4.2.4","grunt":"^1.3.0","grunt-banner":"^0.6.0","grunt-cli":"^1.2.0","grunt-contrib-clean":"^1.1.0","grunt-contrib-watch":"^1.0.0","grunt-eslint":"^23.0.0","grunt-karma":"^4.0.0","grunt-mocha-test":"^0.13.3","grunt-ts":"^6.0.0-beta.19","grunt-webpack":"^4.0.2","istanbul-instrumenter-loader":"^1.0.0","jasmine-core":"^2.4.1","karma":"^6.3.2","karma-chrome-launcher":"^3.1.0","karma-firefox-launcher":"^2.1.0","karma-jasmine":"^1.1.1","karma-jasmine-ajax":"^0.1.13","karma-safari-launcher":"^1.0.0","karma-sauce-launcher":"^4.3.6","karma-sinon":"^1.0.5","karma-sourcemap-loader":"^0.3.8","karma-webpack":"^4.0.2","load-grunt-tasks":"^3.5.2","minimist":"^1.2.0","mocha":"^8.2.1","sinon":"^4.5.0","terser-webpack-plugin":"^4.2.3","typescript":"^4.0.5","url-search-params":"^0.10.0","webpack":"^4.44.2","webpack-dev-server":"^3.11.0"},"homepage":"https://axios-http.com","jsdelivr":"dist/axios.min.js","keywords":["xhr","http","ajax","promise","node"],"license":"MIT","main":"index.js","name":"axios","repository":{"type":"git","url":"git+https://github.com/axios/axios.git"},"scripts":{"build":"NODE_ENV=production grunt build","coveralls":"cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js","examples":"node ./examples/server.js","fix":"eslint --fix lib/**/*.js","postversion":"git push && git push --tags","preversion":"npm test","start":"node ./sandbox/server.js","test":"grunt test","version":"npm run build && grunt version && git add -A dist && git add CHANGELOG.md bower.json package.json"},"typings":"./index.d.ts","unpkg":"dist/axios.min.js","version":"0.21.4"}');
+module.exports = JSON.parse('{"name":"axios","version":"0.21.4","description":"Promise based HTTP client for the browser and node.js","main":"index.js","scripts":{"test":"grunt test","start":"node ./sandbox/server.js","build":"NODE_ENV=production grunt build","preversion":"npm test","version":"npm run build && grunt version && git add -A dist && git add CHANGELOG.md bower.json package.json","postversion":"git push && git push --tags","examples":"node ./examples/server.js","coveralls":"cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js","fix":"eslint --fix lib/**/*.js"},"repository":{"type":"git","url":"https://github.com/axios/axios.git"},"keywords":["xhr","http","ajax","promise","node"],"author":"Matt Zabriskie","license":"MIT","bugs":{"url":"https://github.com/axios/axios/issues"},"homepage":"https://axios-http.com","devDependencies":{"coveralls":"^3.0.0","es6-promise":"^4.2.4","grunt":"^1.3.0","grunt-banner":"^0.6.0","grunt-cli":"^1.2.0","grunt-contrib-clean":"^1.1.0","grunt-contrib-watch":"^1.0.0","grunt-eslint":"^23.0.0","grunt-karma":"^4.0.0","grunt-mocha-test":"^0.13.3","grunt-ts":"^6.0.0-beta.19","grunt-webpack":"^4.0.2","istanbul-instrumenter-loader":"^1.0.0","jasmine-core":"^2.4.1","karma":"^6.3.2","karma-chrome-launcher":"^3.1.0","karma-firefox-launcher":"^2.1.0","karma-jasmine":"^1.1.1","karma-jasmine-ajax":"^0.1.13","karma-safari-launcher":"^1.0.0","karma-sauce-launcher":"^4.3.6","karma-sinon":"^1.0.5","karma-sourcemap-loader":"^0.3.8","karma-webpack":"^4.0.2","load-grunt-tasks":"^3.5.2","minimist":"^1.2.0","mocha":"^8.2.1","sinon":"^4.5.0","terser-webpack-plugin":"^4.2.3","typescript":"^4.0.5","url-search-params":"^0.10.0","webpack":"^4.44.2","webpack-dev-server":"^3.11.0"},"browser":{"./lib/adapters/http.js":"./lib/adapters/xhr.js"},"jsdelivr":"dist/axios.min.js","unpkg":"dist/axios.min.js","typings":"./index.d.ts","dependencies":{"follow-redirects":"^1.14.0"},"bundlesize":[{"path":"./dist/axios.min.js","threshold":"5kB"}]}');
 
 /***/ })
 
